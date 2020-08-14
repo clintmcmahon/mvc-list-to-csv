@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVkpsIHWe8pg3v62TMQKXMPYPaDQlUXbGdc60M1BmyD2cJycU1b7NaNoi/v6s+rltRoq+hGf3brE2wjPRh0HMg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\examples\\ListToCSV\\ListToCSV\\ListToCSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Clint\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\Clint\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
